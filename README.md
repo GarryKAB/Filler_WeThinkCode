@@ -19,3 +19,11 @@ The goal was to code an AI for the Filler game, for which we have a virtual mach
  
  
 The main goal of the project is to introduce us to basic algorithms and to have us manipulate inputs and outputs.
+
+## Running and compiling
+The resources folder contains the VM, maps and players provided.
+
+Run `make` and the 'filler' executable will be created. Then `cd` into the `resources` directory.
+Run it with `./filler_vm -p1 ../filler -p2 players/[player] -f maps/[map]`.
+
+
