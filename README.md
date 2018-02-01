@@ -12,7 +12,7 @@ The goal was to code an AI for the Filler game, for which we have a virtual mach
 ### Step 3
  Send the coordinates of our move to the virtual machine.
  
-##The rules are simple:
+## The rules are simple:
  Two players gain points by placing pieces on the board, one after the other.
  The game piece is obtained from the game master (in the form of an executable Ruby program).
  The game ends when a game piece can no longer be placed on the board.
